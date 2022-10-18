@@ -1,2 +1,1 @@
-# Polling-System
-Fynd Academy Project
+# polling.system.github.io
